@@ -19,4 +19,4 @@ This application return the following file paths in stdout:
 `/dir2/docs/readme.md`  
 `/dir2/docs/tutorial/part1.md`  
   
-To find files used glob matcher from standard Java NIO library. To recursive search used extends of `SimpleFileVisitor<>` class.
+Glob matcher from standard Java NIO library is used to find files. Extends of `SimpleFileVisitor<>` class is used to recursive search.
